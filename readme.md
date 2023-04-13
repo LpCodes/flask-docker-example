@@ -34,7 +34,7 @@ Tag your image with your Docker Hub username and repository name:
 """
 docker tag lpcdocks/flask-basic-app lpcdocks/flask-basic-app"""
 
-# Replace <lpcdocks> with your Docker Hub username.
+### Replace <lpcdocks> with your Docker Hub username.
 
 Push your image to Docker Hub:
 
